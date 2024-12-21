@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    position: absolute;
+    top: 3%;
+    font-size: 1.2rem;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.rule2 {
+    position: absolute;
+    width: 1000px;
+    top: 8%;
+    left: 1.5%;
+}
+
+.kihon-honbun {
+    margin: 20px auto;
+    left: 1.5%;
+    align-items: center;
+    position: absolute;
+}
+.kyoka {
+    position: absolute;
+    top: 600%;
+}
+.kyoka-honbun {
+    position: absolute;
+    margin: 20px auto;
+    align-items: center;
+    width: 1000px;
+    top: 100%;
+    left: 10%;
+}
+.kakurenbo-rule {
+    position: absolute;
+    left: 3%;
+}
+.version {
+    position: absolute;
+    top: 55%;
+    left: 1.5%;
+}
+.ver-honbun {
+    position: absolute;
+    top: 150%;
+    width: 1000px;
+    left: 3.5%;
+}
